@@ -1,0 +1,134 @@
+body {
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+.top-container {
+    margin: 0px;
+    background-color: #CDF0EA;
+    padding-top: 100px;
+    position: relative;
+}
+
+h1 {
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 350px;
+    top: 50px;
+    width: 15rem;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 450px;
+    width: 15rem;
+}
+
+.mountain {
+    width: 60rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+    display: inline-block;
+    margin: 50px 30px;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.RDJ {
+    width: 20%;
+    /* height: 670px; */
+    
+}
+
+.Computing {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.Thinking {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+/* .para1 {
+    clear: left; 
+}
+
+.para2 {
+    clear: right; 
+}  */
+
+/* clear is simply like anti-float */
+
+hr {
+    border-style: dotted none none none;
+    border-width: 8px;
+    width: 5%;
+    color: #EAF6F6;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    height: 200px;
+    
+}
+
+.ll {
+    margin: 0px auto 50px;
+    color: #EAF6F6;
+}
+
+.btn {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
